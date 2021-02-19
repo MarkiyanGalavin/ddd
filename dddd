@@ -1,0 +1,6 @@
+b = True
+while b:
+    endnumber = int(input("число"))
+    a.append(endnumber)
+    if endnumber == 0:
+        b = False
